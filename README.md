@@ -1,5 +1,5 @@
 # Female Diabetes
-Statistics/Data Visualization Project
+
 
 In this project, we have taken the data from Kaggle, https://www.kaggle.com/datasets/mathchi/diabetes-data-set. 
 
